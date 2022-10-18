@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alan7566
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on new startups
 - 📫 How to reach me: alandavidescamilla@gmail.com
