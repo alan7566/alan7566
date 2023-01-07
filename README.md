@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alan7566
-- 👀 I’m interested in FUllStack Development
+- 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on new startups
 - 📫 How to reach me: alandavidescamilla@gmail.com
