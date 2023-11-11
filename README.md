@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alan7566
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning SpringBoot
+- 👀 I’m interested in Mobile and HPC Development
+- 🌱 I’m currently learning SpringBoot and Android Development
 - 💞️ I’m looking to collaborate on new startups
 - 📫 How to reach me: alandavidescamilla@gmail.com
 
